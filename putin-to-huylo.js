@@ -24,11 +24,9 @@ function walk(node) {
 
 function handleText(textNode)  {
     var v = textNode.nodeValue;
-    
+
     v = v.replace(/\bPutin\b/g, "Huylo");
     v = v.replace(/\bputin\b/g, "huylo");
-    v = v.replace(/\bПутин\b/g, "Хуйло");
-    v = v.replace(/\bпутин\b/g, "хуйло");
     
     textNode.nodeValue = v;
 }
