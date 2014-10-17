@@ -5,3 +5,7 @@ putin-to-huylo
 
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension, Logan Collins cloud-to-butt [Safari plugin](https://github.com/logancollins/cloud-to-butt-safari).
+
+## Installing
+
+Download [PtnHlo.safariextz](https://github.com/rfhfntkm/putin-to-huylo/blob/master/PtnHlo.safariextz?raw=true)
