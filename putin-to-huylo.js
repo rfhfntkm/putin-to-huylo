@@ -1,4 +1,4 @@
-lk(document.body);
+walk(document.body);
 
 function walk(node) {
     // I stole this function from here:
