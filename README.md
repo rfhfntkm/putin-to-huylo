@@ -1,7 +1,9 @@
 putin-to-huylo
 ==============
 
-  Browser extension that replaces occurrences of "Putin" with "Huylo".
+  Browser extension that replaces occurrences of "Putin" with "Huylo". Works for Ukrainian, English and Russian.
+  
+  If you found some error or have an idea how to improve extensions - feel free to make a pull request.
 
 
 Derived from the work of:
@@ -16,3 +18,8 @@ Safari - download [PtnHlo.safariextz](https://github.com/rfhfntkm/putin-to-huylo
 Firefox - download [PtnHlo.xpi](https://github.com/rfhfntkm/putin-to-huylo/blob/master/Firefox/PtnHlo.xpi)
 
 Chrome - download [PtnHlo.crx](https://github.com/rfhfntkm/putin-to-huylo/blob/master/Chrome/PtnHlo.crx)
+
+
+
+###  P.S. 
+Crimea *must* be returned.
