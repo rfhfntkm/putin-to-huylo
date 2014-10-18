@@ -52,25 +52,33 @@
         v = v.replace(/Путины/g, "Хуйловы");
         v = v.replace(/путины/g, "хуйловы");
 
-        v = v.replace(/Путиных/g, "Хуйловых");
-        v = v.replace(/путиных/g, "хуйловых");
-
         v = v.replace(/Пу́тин/g, "Хуйло́");
         v = v.replace(/пу́тин/g, "хуйло́");
 
         v = v.replace(/Путин/g, "Хуйло");
         v = v.replace(/путин/g, "хуйло");
     
-    
         v = v.replace(/Путіна/g, "Хуйла");
         v = v.replace(/путіна/g, "хуйла");
     
-        v = v.replace(/Путін/g, "Хуйло");
-        v = v.replace(/путін/g, "хуйло");
+        v = v.replace(/Путіну/g, "Хуйлу");
+        v = v.replace(/путіну/g, "хуйлу");
+
+        v = v.replace(/Путіним/g, "Хуйлом");
+        v = v.replace(/путіним/g, "хуйлом");
+
+        v = v.replace(/Путіні/g, "Хуйлі");
+        v = v.replace(/путіні/g, "хуйлі");
+    
+        v = v.replace(/Путіни/g, "Хуйлови");
+        v = v.replace(/путіни/g, "хуйлови");
     
         v = v.replace(/Пу́тін/g, "Хуйло́")
         v = v.replace(/пу́тін/g, "хуйло́")
     
+        v = v.replace(/Путін/g, "Хуйло");
+        v = v.replace(/путін/g, "хуйло");    
+
         textNode.nodeValue = v;
     }
 
