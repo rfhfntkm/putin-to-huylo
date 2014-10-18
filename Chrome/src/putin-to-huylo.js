@@ -78,6 +78,7 @@ function handleText(textNode)
     
     v = v.replace(/Путін/g, "Хуйло");
     v = v.replace(/путін/g, "хуйло");
+    
 	textNode.nodeValue = v;
 }
 
