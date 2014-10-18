@@ -20,6 +20,8 @@ Firefox - download [PtnHlo.xpi](https://github.com/rfhfntkm/putin-to-huylo/blob/
 Chrome - download [PtnHlo.crx](https://github.com/rfhfntkm/putin-to-huylo/blob/master/Chrome/PtnHlo.crx)
 
 
+### Contact
+[@avebloodypastor](https://twitter.com/avebloodypastor)
 
 ###  P.S. 
 Crimea *must* be returned.
