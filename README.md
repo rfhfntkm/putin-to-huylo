@@ -12,4 +12,7 @@ Derived from the work of:
 ## Installing
 
 Safari - download [PtnHlo.safariextz](https://github.com/rfhfntkm/putin-to-huylo/blob/master/Safari/PtnHlo.safariextz?raw=true)
+
 Firefox - download [PtnHlo.xpi](https://github.com/rfhfntkm/putin-to-huylo/blob/master/Firefox/PtnHlo.xpi)
+
+Chrome - download [PtnHlo.crx](https://github.com/rfhfntkm/putin-to-huylo/blob/master/Chrome/PtnHlo.crx)
