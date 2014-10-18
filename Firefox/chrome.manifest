@@ -1,0 +1,3 @@
+content	putin-to-huylo	chrome/content/	contentaccessible=yes
+
+overlay	chrome://browser/content/browser.xul	chrome://putin-to-huylo/content/main.xul
