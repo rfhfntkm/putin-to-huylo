@@ -8,4 +8,4 @@ Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panic
 
 ## Installing
 
-Safari - download [PtnHlo.safariextz](https://github.com/rfhfntkm/putin-to-huylo/blob/master/PtnHlo.safariextz?raw=true)
+Safari - download [PtnHlo.safariextz](https://github.com/rfhfntkm/putin-to-huylo/blob/master/Safari/PtnHlo.safariextz?raw=true)
